@@ -1,0 +1,8 @@
+-------- Daily Report --------
+Date: 21/05/2023 02:04:22:Product: OrangeJuice Price:15,PricePayment : 20,Change Given:5
+
+Date: 21/05/2023 02:04:38:Product: Choclate Price:7,PricePayment : 10,Change Given:3
+
+Date: 21/05/2023 02:04:53:Product: Bisly Price:5,PricePayment : 14,Change Given:9
+
+-------------------------------

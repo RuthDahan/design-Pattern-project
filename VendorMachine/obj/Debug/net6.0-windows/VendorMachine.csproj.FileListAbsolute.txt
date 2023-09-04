@@ -1,0 +1,100 @@
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.exe
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.deps.json
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.runtimeconfig.json
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\ref\VendorMachine.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.pdb
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.AssemblyReference.cache
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.Form1.resources
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.GenerateResource.cache
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.AssemblyInfoInputs.cache
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.AssemblyInfo.cs
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.CopyComplete
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\ref\VendorMachine.dll
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.pdb
+C:\Users\אורטל חנה\Source\Repos\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.genruntimeconfig.cache
+H:\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.exe
+H:\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.deps.json
+H:\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.runtimeconfig.json
+H:\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\ref\VendorMachine.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\VendorMachine.pdb
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+H:\VendorMachine\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.AssemblyReference.cache
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.Form1.resources
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.GenerateResource.cache
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.GeneratedMSBuildEditorConfig.editorconfig
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.AssemblyInfoInputs.cache
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.AssemblyInfo.cs
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.CoreCompileInputs.cache
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.csproj.CopyComplete
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.dll
+H:\VendorMachine\obj\Debug\net6.0-windows\ref\VendorMachine.dll
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.pdb
+H:\VendorMachine\obj\Debug\net6.0-windows\VendorMachine.genruntimeconfig.cache
